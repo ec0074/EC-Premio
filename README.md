@@ -45,6 +45,6 @@ Ce plugin ne possède aucune dépendance.
 
 Chaque personne ayant accès au fichier de votre serveur peut s'octroyer les droits !
 
-🔗Télécharger [EC] Ano : https://github.com/ec0074/EC-Ano-
+🔗Télécharger [EC] Premio : [https://github.com/ec0074/EC-Ano-](https://github.com/ec0074/EC-Premio)
 ⬇️Signaler un bug, amélioration, demande de licence :
 https://discord.gg/TmwAvJdbN4
