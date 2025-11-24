@@ -43,6 +43,8 @@ Placez ensuite ce fichier dans votre dossier Plugins.
 Lancez votre serveur, et le plugin sera fonctionnel.
 Ce plugin ne possède aucune dépendance.
 
+Chaque personne ayant accès au fichier de votre serveur peut s'octroyer les droits !
+
 🔗Télécharger [EC] Ano : https://github.com/ec0074/EC-Ano-
 ⬇️Signaler un bug, amélioration, demande de licence :
 https://discord.gg/TmwAvJdbN4
