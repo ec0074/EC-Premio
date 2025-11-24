@@ -5,9 +5,9 @@ EC_Premio est un plugin conçu pour simplifier l’attribution de récompenses v
 Il permet aux administrateurs de créer, gérer et distribuer des codes qui offrent des avantages en jeu aux joueurs.
 
 🔹 Obtenir une récompense (/premio)
-Permet à n'importe quel joueur d'entrer la commande /premio <CODE> afin d'obtenir la récompense associée à ce code.
+Permet à n'importe quel joueur d'entrer la commande /premio <CODE>  afin d'obtenir la récompense associée à ce code.
 Cooldown entre chaque commande
-Enregistre chaque entrée de code même incorrecte 
+Enregistre chaque entrée de code même incorrecte.
 
 
 🔹 Gestion admin (/ecpremio)
@@ -27,10 +27,6 @@ Cooldown entre chaque commande
 
 🔹 Log avancé
 * EC_Premio_Logs : inscrit chaque création, suppression , utilisation de code et tentative (joueur entre un code inexistant)
-  
-
-
-
 
 
 🔹 Licence
