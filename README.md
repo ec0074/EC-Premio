@@ -42,6 +42,7 @@ Depuis le GitHub, téléchargez le fichier .dll du plugin.  
 Placez ensuite ce fichier dans votre dossier Plugins.
 Lancez votre serveur, et le plugin sera fonctionnel.
 Ce plugin ne possède aucune dépendance.
+Dans le fichier acceso mettez les steamid des personnes qui auront accès au pannel.
 
 Chaque personne ayant accès au fichier de votre serveur peut s'octroyer les droits !
 
