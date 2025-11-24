@@ -28,6 +28,12 @@ Cooldown entre chaque commande
 🔹 Log avancé
 * EC_Premio_Logs : inscrit chaque création, suppression , utilisation de code et tentative (joueur entre un code inexistant)
 
+ 🔹 Configuration
+Le cooldown admin et joueur peut être modifié (temps entre deux messages par joueur)
+Broadcasttoplayers envoie un message à tous les joueurs ex : Un joueur a reçu une récompense.
+Broadcasttoadmins envoie un message à tous les admins, ex : NOM PRENOM steamid à recu : XXX.
+
+
 
 🔹 Licence
 * EC_Premio_Licencia : Pour saisir votre licence
